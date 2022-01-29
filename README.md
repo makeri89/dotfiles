@@ -6,4 +6,4 @@ Dotfiles for configuring
 - kitty terminal
 - polybar
 - vim
-- zsh with oh-my-zsh
+- rofi
